@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {background-color: rgb(0, 0, 0);}
+        header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 120%;
+            background-color: rgb(56, 51, 51);
+            color: white;
+            height: 70px;
+            font-size: 2rem;
+
+        }
+            
+
+
+
+    </style>
+    <head>
+        <meta charset="utf-8">
+        <title>daimonthedeveloper</title>
+        <link rel ="shortcut icon" href="favicon.ico"/>
+
+
+
+
+    </head>
+
+    
+    
+    
+    
+    <body>
+        <nav>
+            <center>
+                <h1 style="color: darkgrey;">Daimon The Developer</h1>
+                <a href="iletisim.html">İletişim</a>
+                <a href="özgecmis.html">Özgeçmiş</a>
+                <br>
+                <hr>
+            </center>
+        </nav>
+        <center>
+        <h1>Yazılar</h1>
+       
+        <h2>Moq'nun efektif kullanımı</h2>
+        <a href="https://riptutorial.com/moq"><img src="moc.png">
+        </a>
+        <br>
+        <hr>
+        
+
+        <h2>.Net Günlükleri</h2>
+        <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro"><img src=".net.png">
+    </center>     
+    </body>
+
+
+
+
+</html>
